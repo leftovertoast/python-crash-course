@@ -1,0 +1,1 @@
+Chapter one focuses on setup and no coding exercises really take place. See Chapter_02 folder for start of coding exercies. 
