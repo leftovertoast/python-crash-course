@@ -2,5 +2,5 @@
 # Learning Objective: Use for loop and range method. 
 
 for number in range(1, 21):
-	print(number)
+    print(number)
 

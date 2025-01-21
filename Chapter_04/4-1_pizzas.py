@@ -4,6 +4,6 @@
 favoritePizzas = ['Meat lovers', 'White with Spinach and Feta', 'Pepperoni']
 
 for pizza in favoritePizzas:
-	print(f"I like {pizza} pizza. \n")
+    print(f"I like {pizza} pizza. \n")
 
 print("I really love pizza!")
