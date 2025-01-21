@@ -1,2 +1,2 @@
 ## Left off: 
-### Chapter 4 - Pg 57 - Try It Yourself 4-6 Odd Numbers
+### Chapter 4 - Pg 60 - Working with Part of a List 
