@@ -1,2 +1,2 @@
 ## Left off: 
-### Chapter 4 - Pg 49 - Working with Lists
+### Chapter 4 - Pg 57 - Try It Yourself 4-3 - 4-9
