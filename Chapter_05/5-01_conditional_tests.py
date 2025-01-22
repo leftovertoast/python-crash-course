@@ -35,3 +35,4 @@ print(lightSwitch == 'on')
 
 print("\nIs the light off? I don't think it is.")
 print(lightSwitch == 'off')
+
